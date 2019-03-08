@@ -1,0 +1,303 @@
+from,to,relationship
+CocaCola,5by20,4
+CocaCola,The last mile,4
+CocaCola,RED,1
+CocaCola,RespAct,1
+CocaCola,Ekocenter,4
+CocaCola,Unified Laufgruppen,4
+CocaCola,American Red Cross,1
+CocaCola,ENGINE,4
+CocaCola,Lazos de Agua,4
+CocaCola,RE100,2
+CocaCola,The Coca Cola Foundation,4
+CocaCola,ISCC,2
+CocaCola,The Consumer Goods Forum,2
+CocaCola,The Consumer Goods Forum,3
+CocaCola,IFBA,4
+CocaCola,IFBA,3
+CocaCola,ILSI,4
+CocaCola,ICBA,2
+CocaCola,Conmexico,2
+CocaCola,24 7 GATEWAY LL,1
+CocaCola,Agnes Scott College,1
+CocaCola,American National Red Cross,1
+CocaCola,Anacostia Watershed Society,1
+CocaCola,Perspective,1
+CocaCola,Atlanta Ballet Incorporated,1
+CocaCola,Atlanta Beltline Partnership,1
+CocaCola,Atlanta Police Foundation,1
+CocaCola,Atlanta Botanical Garden,1
+CocaCola,Atlanta Womens Foundation,1
+CocaCola,Back on My Feet,1
+CocaCola,Bal Raksha Bharat,1
+CocaCola,Clinton Foundation,1
+CocaCola,Boys and Girls Club of Metro Atlanta,1
+CocaCola,Childrens Healthcare of Atlanta,1
+CocaCola,Clark Atlanta University,1
+CocaCola,Clayton State University Foundation,1
+CocaCola,EARTH University Foundation,1
+CocaCola,Emergency Assistance Foundation,1
+CocaCola,Fundacion cimientos,1
+CocaCola,Georgia State University Foundation,1
+CocaCola,Global Impact,1
+CocaCola,Holy Innocents Episcopal School,1
+CocaCola,Hosea Feed The Hungry and Homeless,1
+CocaCola,Kennesaw State University Foundation,1
+CocaCola,Latin American Association,1
+CocaCola,Literacy Action,1
+CocaCola,MJCCA,1
+CocaCola,Marist School ,1
+CocaCola,Maynard Jackson Youth Foundation,1
+CocaCola,Mercy Care Foundation,1
+CocaCola,Morehouse College,1
+CocaCola,National Organization on Disability,1
+CocaCola,New American Pathways,1
+CocaCola,Ocean Conservancy,1
+CocaCola,Oglethorpe University,1
+CocaCola,Park Pride Atlanta,1
+CocaCola,Piedmont Park Conservancy,1
+CocaCola,Rails to Trails Conservancy,1
+CocaCola,Robert W Woodruff Arts Center,1
+CocaCola,Ron Clarc Academy,1
+CocaCola,Special Olympics Georgia,1
+CocaCola,Spelman College,1
+CocaCola,Ellis Island Foundation,1
+CocaCola,Team Rubicon,1
+CocaCola,The Executive Leadership Council,1
+CocaCola,The Recycling Partnership,1
+CocaCola,The Sheltering Arms,1
+CocaCola,Trust for Public Land,1
+CocaCola,United Way of Greater Atlanta,1
+CocaCola,Westside Future Fund,1
+CocaCola,Woodward Academy,1
+CocaCola,2030 WRG,5
+CocaCola,Deutscher Aromenverband,2
+CocaCola,Markenverband,2
+Danone,BAUM,2
+Danone,ISCC,2
+Danone,ISCC,2
+Danone,ISCC,5
+Danone,Danone Communities,4
+Danone,Danone Ecosysteme,4
+Danone,Danone Ecosysteme,3
+Danone,Livelihood Funds,4
+Danone,Tank,3
+Danone,Franzoesische Regierung,6
+Danone,Livelihood Funds,3
+Danone,The Consumer Goods Forum,3
+Danone,The Consumer Goods Forum,2
+Danone,IFBA,4
+Danone,IFBA,3
+Danone,NaturALL Bottle Alliance,4
+Danone,The Gobal Deal,2
+Danone,Ellen MacArthur Foundation,2
+Danone,Milchindustrieverband,2
+Danone,Markenverband,2
+GeneralMills,The Consumer Goods Forum,2
+GeneralMills,The Consumer Goods Forum,3
+GeneralMills,Gaerten fuer Kinder,5
+GeneralMills,Stadtparkverein Hamburg,1
+GeneralMills,Elternschule Muemmelmannsberg,1
+GeneralMills,Hamburger Tafel,1
+GeneralMills,European Food Banks Federation,5
+GeneralMills,Feeding America,1
+GeneralMills,The Global FoodBanking Network,1
+GeneralMills,Xerces Society ,1
+GeneralMills,The Nature Conservancy,1
+GeneralMills,General Mills Foundation,4
+GeneralMills,HandsOn Twin Cities,5
+GeneralMills,Youth Farm,5
+GeneralMills,PRISM,5
+GeneralMills,TGVL,4
+GeneralMills,Partners in Food Solutions,5
+GeneralMills,Clean Power Plan,5
+GeneralMills,Share Our Strength,1
+GeneralMills,Food Research and Action Center,5
+GeneralMills,NCSL,5
+GeneralMills,Soil Health Institute,1
+GeneralMills,IMD,5
+GeneralMills,Observatoire Francais dApidologie,5
+GeneralMills,Future Farmers of America,5
+GeneralMills,Markenverband,2
+"GeneralMills
+",Stiftung Mittagskinder,1
+GeneralMills ,IFBA,4
+GeneralMills ,IFBA,3
+Kelloggs,JTFO,1
+Kelloggs,Stiftung Sport in der Schule,5
+Kelloggs,AixEuregio,1
+Kelloggs,Wiener Tafel,1
+Kelloggs,brotZeit,1
+Kelloggs,Breakfasts for Better Days,4
+Kelloggs,ISCC,2
+Kelloggs,The Consumer Goods Forum,2
+Kelloggs,The Consumer Goods Forum,3
+Kelloggs,IFBA,4
+Kelloggs,IFBA,3
+Kelloggs,Conmexico,2
+Kelloggs,Markenverband,2
+Mars,ISCC,2
+Mars,Livelihood Funds,4
+Mars,The Consumer Goods Forum,2
+Mars,The Consumer Goods Forum,3
+Mars,IFBA,4
+Mars,IFBA,3
+Mars,Conmexico,2
+Mars,Viersener Tafel,1
+Mars,Viersener Tafel,6
+Mars,Special Smiles Deutschland,1
+Mars,Special Smiles Deutschland,6
+Mars,SOS Kinderdorf,1
+Mars,Plattform Ernaehrung und Bewegung,2
+Mars,Lale,5
+Mars,ekip,5
+Mars,Forum Zahn und Mundgesundheit,5
+Mars,Bremer Suppenengel,1
+Mars,Bremer Suppenengel,6
+Mars,Bundesverband der deutschen Sueßwarenindustrie,2
+Mars,FEE,5
+Mars,BSDC,3
+Mars,Asia Society Institute,3
+Mars,Wrigley Company Foundation,4
+Mars,Comic Relief,1
+Mars,Operation Gratitude,1
+Mars,US Military MRE,1
+Mars,ICRW,5
+Mars,Markenverband,2
+Mondelez,The Consumer Goods Forum,2
+Mondelez,The Consumer Goods Forum,3
+Mondelez,IFBA,4
+Mondelez,IFBA,3
+Mondelez,Bundesverband der deutschen Sueßwarenindustrie,2
+Mondelez,Argentine Society of Nutrition,5
+Mondelez,Academy of Nutrition and Dietetics,2
+Mondelez,British Dietetic Association,2
+Mondelez,Consumer Goods Forum,2
+Mondelez,Dietitans Association of Australia,2
+Mondelez,ENLP,2
+Mondelez,Grains for Health Foundation,5
+Mondelez,Healthgrain Forum,2
+Mondelez,ILSI,5
+Mondelez,Indonesian Nutrition Association,5
+Mondelez,PAHO,2
+Mondelez,Whole Grains Council,2
+Mondelez,After School All Stars,5
+Mondelez,Alicia Foundation,5
+Mondelez,Charities Aid Foundation,5
+Mondelez,CYDF,5
+Mondelez,TCV,5
+Mondelez,Football Federation Australia,5
+Mondelez,Franzoesisches Rotes Kreuz,5
+Mondelez,Services for Education,5
+Mondelez,INMED,5
+Mondelez,Klasse2000,5
+Mondelez,Magic Bus India,5
+Mondelez,Save the Children,5
+Mondelez,Cocoa Life,4
+Mondelez,ICI,4
+Mondelez,Mondelez International Foundation,4
+Mondelez,CARE,5
+Mondelez,Helen Keller International,5
+Mondelez,WWF,5
+Mondelez,Milchindustrieverband,2
+Mondelez,Milchindustrieverband,3
+Mondelez,Markenverband,3
+Mondelez,Markenverband,2
+Nestle,ISCC,2
+Nestle,ISCC,5
+Nestle,The Consumer Goods Forum,2
+Nestle,The Consumer Goods Forum,3
+Nestle,IFBA,4
+Nestle,IFBA,3
+Nestle,NaturALL Bottle Alliance,4
+Nestle,ILSI,5
+Nestle,Bundesverband der deutschen Sueßwarenindustrie,2
+Nestle,Alliance for Water Stewardship,4
+Nestle,2030 WRG,5
+Nestle,Alliance for Youth,4
+Nestle,BSLL,5
+Nestle,Verbraucher Initiative,6
+Nestle,Deutscher Aromenverband,2
+Nestle,Diaetverband,2
+Nestle,Milchindustrieverband,2
+Nestle,Markenverband,2
+Nestle,IFRC,5
+Nestle,Global Nature Fund,5
+PepsiCo,ISCC,2
+PepsiCo,The Consumer Goods Forum,2
+PepsiCo,The Consumer Goods Forum,3
+PepsiCo,IFBA,4
+PepsiCo,IFBA,3
+PepsiCo,NaturALL Bottle Alliance,4
+PepsiCo,Food for Good,4
+PepsiCo,Akshaya Patra,5
+PepsiCo,The Global FoodBanking Network,5
+PepsiCo,GENYOUth,5
+PepsiCo,WaterAid,1
+PepsiCo,China Womens Development Foundation,5
+PepsiCo,The Inter American Development Bank,2
+PepsiCo,Robin Hood Foundation,1
+PepsiCo,International Youth Foundation,5
+PepsiCo,CARE,5
+PepsiCo,The Recycling Partnership,1
+PepsiCo,American Beverage Association,5
+PepsiCo,Global Reporting Initiative,2
+PepsiCo,Snack Food Association,2
+PepsiCo,WBCSD,2
+PepsiCo,BSR,2
+PepsiCo,FoodDrinkEurope,2
+PepsiCo,GMA,2
+PepsiCo,ILSI,5
+PepsiCo,UN Global Compact,2
+PepsiCo,World Economic Forum,2
+PepsiCo,Ceres,5
+PepsiCo,Food Industry Asia,2
+PepsiCo,ICBA,2
+PepsiCo,Conmexico,2
+PepsiCo,USCIB,2
+PepsiCo,CECP,2
+PepsiCo,2030 WRG,5
+PepsiCo,Markenverband,2
+Unilever,ISCC,2
+Unilever,ISCC,5
+Unilever,Sustainable Living Plan,6
+Unilever,UN Sustainable Development Goals,5
+Unilever,UNICEF,5
+Unilever,Vaseline Healing Project ,4
+Unilever,Population Services International,5
+Unilever,Suvidha Center,4
+Unilever,World Association of Girls Guides and Girls Scouts,5
+Unilever,Loop,4
+Unilever,Sicherheit für Frauen und Maedchen,4
+Unilever,Marcatus Mobile Education Platform,5
+Unilever,Shakti,4
+Unilever,Lamplighter,5
+Unilever,Ethical Tea Partnership,5
+Unilever,Leadership Group for Responsible Recruitment,5
+Unilever,Vision Zero,4
+Unilever,Fair Wage Network,5
+Unilever,Safety to Win,4
+Unilever,World Class Manufacturing Programme,4
+Unilever,Kabisig Summits,5
+Unilever,Perfect Store,5
+Unilever,Black Soy Bean Bango,5
+Unilever,Global Alliance of Improved Nutrition,5
+Unilever,Safeer,5
+Unilever,Symrise,5
+Unilever,Save the Children,5
+Unilever,Bundesentwicklungsagentur GIZ,5
+Unilever,Suvidha Hygiene Center,4
+Unilever,Vietnamesisches Ministerium,5
+Unilever,The Green Fund ,1
+Unilever,Rainforest Alliance,5
+Unilever,Bunge,5
+Unilever,The Consumer Goods Forum,2
+Unilever,The Consumer Goods Forum,3
+Unilever,IFBA,4
+Unilever,IFBA,3
+Unilever,Ellen MacArthur Foundation,2
+Unilever,Conmexico,2
+Unilever,Bundesverband der deutschen Sueßwarenindustrie,2
+Unilever,BSDC,2
+Unilever,Markenverband,3
+Unilever,Markenverband,2
